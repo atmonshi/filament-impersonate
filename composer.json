@@ -5,8 +5,8 @@
     "minimum-stability": "dev",
     "license": "MIT",
     "require": {
-        "lab404/laravel-impersonate": "^1.7",
-        "filament/filament": "^3.0"
+        "lab404/laravel-impersonate": "dev-laravel-11",
+        "filament/filament": "dev-laravel-11"
     },
     "autoload": {
         "psr-4": {
